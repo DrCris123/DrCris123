@@ -1,5 +1,3 @@
-<div align="center"><img src="./assets/banner.png" width="75%" style="margin: 20px 0"></div>
-
 
 ###
 
